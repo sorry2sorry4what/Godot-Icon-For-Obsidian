@@ -61,7 +61,7 @@ This project is **not affiliated with or endorsed by** the Godot Engine project,
 
 ---
 
-## Ringkasan (Bahasa Indonesia)
+## Ringkasan (Bahasa Indonesia) / Summary (Indonesian)
 
 Icon pack kustom berisi ikon node Godot untuk Obsidian lewat plugin Iconize.
 
